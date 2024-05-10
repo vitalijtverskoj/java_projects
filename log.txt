@@ -1,4 +1,0 @@
-апр. 28, 2024 7:02:56 PM Lesson2.GetFolderContetns recordFile
-INFO: Date was successfully written
-апр. 28, 2024 7:03:53 PM Lesson2.GetFolderContetns recordFile
-INFO: Date was successfully written

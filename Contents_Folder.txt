@@ -1,7 +1,0 @@
-.git
-Contents_Folder.txt
-Lesson1
-Lesson2
-log.txt
-log.txt.lck
-README.md
