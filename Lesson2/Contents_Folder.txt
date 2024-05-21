@@ -1,5 +1,0 @@
-AlternatingCharacters.java
-CompressString.java
-GetFolderContetns.class
-GetFolderContetns.java
-IsPalendromStr.java
