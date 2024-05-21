@@ -27,8 +27,8 @@ public class HelloWorld {
 
         int[] array = new int[5];
         int[] array1 = new int[] {5, 6, 7, 8, 9};
-        int[] array2 = {1, 2, 3, 4, 5};
-        int array3[] = {1, 2, 3, 4, 5};
+        // int[] array2 = {1, 2, 3, 4, 5};
+        // int array3[] = {1, 2, 3, 4, 5};
 
         while (b) {
 
@@ -44,9 +44,9 @@ public class HelloWorld {
 
         if(true){
 
-        } else if (false){
+        // } else if (false){
 
-        } else{
+        // } else{
             
         }
     }
